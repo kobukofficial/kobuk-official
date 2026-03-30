@@ -6,7 +6,7 @@ Official repository for Geobukseon Coin metadata, logo assets, and public projec
 - **Token Name:** Geobukseon Coin
 - **Ticker:** KOBUK
 - **Chain:** Solana
-- **Official Mint Address:** `REPLACE_WITH_NEW_MINT_ADDRESS`
+- **Official Mint Address:** `2L5r5Gjtu8DkqJJVggbeCDT641oJB8aPJpjM9XNtJ4BD`
 
 ## Official Links
 - **X:** https://x.com/kobukofficial
